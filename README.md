@@ -1,2 +1,5 @@
 # hello_world
-first test repository
+
+Hello world,
+This is my first foray out of the master branch.
+sfrey9
